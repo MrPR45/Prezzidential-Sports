@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+    <addon id="plugin.video.prezzidental_sports" version="1.0.1">
+        <name>PrezZidental Sports</name>
+        <summary>Watch live sports with a presidential theme.</summary>
+        <description>PrezZidental Sports streams live events from various sports categories.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>https://raw.githubusercontent.com/MrPR45/Prezzidential-Sports/main/repository.prezzidental/icon.png</icon>
+            <fanart>https://raw.githubusercontent.com/MrPR45/Prezzidential-Sports/main/plugin.video.prezzidental_sports/fanart.jpg</fanart>
+        </assets>
+        <extension point="xbmc.python.script" library="default.py" />
+    </addon>
+</addons>
