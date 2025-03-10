@@ -4,9 +4,9 @@
        provider-name="MrPR45">
     <extension point="xbmc.addon.repository" name="PrezZidental Repo">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/MrPR45/Prezzidential-Sports/main/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/MrPR45/Prezzidential-Sports/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/MrPR45/Prezzidential-Sports/main/repository.prezzidental/prezzidental-sports.zip</datadir>
+            <info compressed="false">https://https://MrPR45.github.io/Prezzidential-Sports/main/addons.xml</info>
+            <checksum>https://https://MrPR45.github.io/Prezzidential-Sports/main/addons.xml.md5</checksum>
+            <datadir zip="true">https://MrPR45.github.io/Prezzidential-Sports/main/repository.prezzidental/prezzidental-sports.zip</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
