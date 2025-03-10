@@ -6,7 +6,7 @@
         <description>PrezZidental Sports streams live events from various sports categories.</description>
         <platform>all</platform>
         <assets>
-            <icon>https://raw.githubusercontent.com/MrPR45/Prezzidential-Sports/main/plugin.video.prezzidental_sports/icon.png</icon>
+            <icon>https://raw.githubusercontent.com/MrPR45/Prezzidential-Sports/main/repository.prezzidental/icon.png</icon>
             <fanart>https://raw.githubusercontent.com/MrPR45/Prezzidential-Sports/main/plugin.video.prezzidental_sports/fanart.jpg</fanart>
         </assets>
         <extension point="xbmc.python.script" library="default.py" />
